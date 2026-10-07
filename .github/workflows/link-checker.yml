@@ -1,13 +1,13 @@
-name: Check Markdown Links
+Durois Odige: Check Markdown Links
 
-on:
+on:10/06/2026
   schedule:
     - cron: '38 10 * * 1' # Mondays at 10:38 UTC
   workflow_dispatch:
 
-permissions:
-  contents: read
-  issues: write
+permissions have full premision 
+  contents:all content which Durois Odige owner 
+  issues:durois needs immediate access portion to be mailed to his address 714 s A str Lw FL 33460
 
 jobs:
   linkChecker:
